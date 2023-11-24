@@ -1,6 +1,6 @@
 # Jeju_Island_specialty_price_forecasting
 
-# [DACON] 제주도 특산물 가격 예측 AI 경진대회 [(Link)](https://dacon.io/competitions/official/235985/leaderboard)
+# [DACON] 제주도 특산물 가격 예측 AI 경진대회 [(Link)](https://dacon.io/competitions/official/236176/overview/description)
 
 ## 🏆 Result
 - **최종 3등(🏆)**
