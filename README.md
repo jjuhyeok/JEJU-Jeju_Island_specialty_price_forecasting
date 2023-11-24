@@ -18,10 +18,8 @@
 
 
 
-<img width="100%" src=""/>
+<img width="100%" src="https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting/assets/49608953/1223a8b4-7c3e-4f78-b6c8-e747ab1dfabd"/>
   
-**같이 참여했던 팀원분의 개발 블로그를 보던 중 발견한 감동적인 글..**  
-**나의 노력을 알아 주셔서 정말 감사했다.. 더 열심히 살게 되는 원동력..**  
 
 ===========================================================================
   
