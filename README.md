@@ -5,7 +5,6 @@
 ## 🏆 Result
 - **최종 3등(🏆)**
 
-<img width="50%" src="https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting/assets/49608953/1223a8b4-7c3e-4f78-b6c8-e747ab1dfabd"/>  
 
 
 
@@ -19,7 +18,8 @@
 
 
 
-<img width="100%" src="https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting/assets/49608953/1223a8b4-7c3e-4f78-b6c8-e747ab1dfabd"/>
+<img width="50%" src="https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting/assets/49608953/1223a8b4-7c3e-4f78-b6c8-e747ab1dfabd"/>  
+
   
 
 ===========================================================================
